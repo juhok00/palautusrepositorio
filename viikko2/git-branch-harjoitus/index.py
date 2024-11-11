@@ -6,7 +6,7 @@ from erotus import erotus
 
 
 
-logger("aloitetaan")
+logger("aloitetaan ohjelma") # muutos mainissa
 
 
 x = int(input("luku 1: "))
@@ -18,5 +18,5 @@ print(f"{erotus(x, y)}")
 
 
 
-logger("lopetetaan")
+logger("lopetetaan ohjelma")
 
