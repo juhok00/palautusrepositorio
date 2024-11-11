@@ -17,6 +17,6 @@ print(f"{erotus(x, y)}")
 
 
 
-
 logger("lopetetaan ohjelma")
 
+print("goodbye!") # lisäys bugikorjaus-branchissa
